@@ -78,8 +78,8 @@ body {
 
 /* Timeline Image */
 .timeline-img {
-  width: 100px;
-  height: 100px;
+  width: 140px;
+  height: 140px;
   object-fit: cover;
   border-radius: 8px;
   border: 2px solid #ffb6d5;
