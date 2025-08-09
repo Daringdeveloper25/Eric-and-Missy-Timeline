@@ -78,8 +78,8 @@ body {
 
 /* Timeline Image */
 .timeline-img {
-  width: 140px;
-  height: 140px;
+  width: 180px; /* was 140px */
+  height: 180px; /* was 140px */
   object-fit: cover;
   border-radius: 8px;
   border: 2px solid #ffb6d5;
@@ -93,7 +93,7 @@ body {
 /* Timeline Text */
 .timeline-text {
   color: #333;
-  font-size: 1rem;
+  font-size: 1.35rem; /* was 1rem */
   text-align: center;
   margin: 0;
 }
